@@ -71,7 +71,7 @@ based on: <https://zenn.dev/ozelotvanilla/articles/1727865d9c48fd>
 |Module|モジュール|部品|
 |Iteration|イテレータ |反復|
 |Iterator|イテレーション|反復器|
-|User|ユーザー|ユーザー|
+|User|ユーザー|利用者|
 |Tensor|テンソル|多次元量|
 |Cache|キャッシュ|暫存|
 |Socket|ソケット|接続器|
